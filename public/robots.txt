@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /public/
+Disallow: /password/
+Disallow: /*/password/
+Disallow: /locale/
+Disallow: /*/locale/
+Disallow: /*.html
+Disallow: /*.php
+
+Sitemap: https://formalweb.cat/sitemap.xml
+Sitemap: https://formalweb.cat/images_sitemap.xml
+LLMS: https://formalweb.cat/llms.txt
+

@@ -1,0 +1,35 @@
+# https://formalweb.cat/ llms.txt
+
+- [Web Design Services](https://formalweb.cat/): Professional web design and development services for all devices.
+- [Web Development Sitemap](https://formalweb.cat/sitemap.xml): Sitemap for web development and SEO services offered.
+- [Web Development Services](https://formalweb.cat/images_sitemap.xml): Explore various web development and design services provided here.
+- [Web Design Services](https://formalweb.cat/ca): Professional web design and development services for businesses.
+- [Web Development Services](https://formalweb.cat/en): Expert web and application development services for all devices.
+- [Web Design Services](https://formalweb.cat/es): Web design and development services tailored for diverse needs.
+- [Web Development Projects](https://formalweb.cat/ca/projectes-desenvolupament-web-seo): Website projects for SEO and web development services.
+- [Web and Application Projects](https://formalweb.cat/es/proyectos-desarollador-web-seo): Explore web and application projects, showcasing various businesses.
+- [Contact Formal Web](https://formalweb.cat/ca/contacte-formal-web-lleida): Contact Formal Web Lleida for assistance via phone or email.
+- [Web Development Insights](https://formalweb.cat/ca/blog-desenvolupament-web): Explore web development topics including AI, Laravel, and responsive design.
+- [Web Development Services](https://formalweb.cat/ca/sobre-mi-desenvolupament-web): Professional web development services tailored to your needs.
+- [Contact Formal Web](https://formalweb.cat/es/contacto-formal-web-lleida): Contact Formal Web for web solutions in Lleida.
+- [Web Development Services](https://formalweb.cat/es/servicios-desarollador-web-seo): Comprehensive web development and SEO services for businesses.
+- [Contact Formal Web](https://formalweb.cat/en/contact-formal-web-lleida): Contact Formal Web for professional web solutions in Lleida.
+- [Web Development Services](https://formalweb.cat/en/services-web-development-seo): Comprehensive web development and SEO services for businesses.
+- [Web Developer Profile](https://formalweb.cat/es/sobre-mi-desarollador-web): Web developer specializing in creating dynamic online solutions.
+- [Web Development Services](https://formalweb.cat/ca/serveis-desenvolupament-web-seo): Comprehensive web development and SEO services available here.
+- [Web Development Blog](https://formalweb.cat/es/blog-desarollador-web): Insights and tips for web development and design.
+- [Web Development Insights](https://formalweb.cat/en/about-me-web-development): Personal insights and services in web development and design.
+- [Web Development Insights](https://formalweb.cat/en/blog-web-development): Insights on web development, techniques, and industry trends.
+- [Web Development Projects](https://formalweb.cat/en/projects-web-development-seo): Explore innovative web development and SEO project showcases.
+- [Machine Learning Overview](https://formalweb.cat/ca/blog-desenvolupament-web/que-es-machine-learning-aprendizaje-automatico): Discover the fundamentals of machine learning and its applications.
+- [Machine Learning Insights](https://formalweb.cat/en/blog-web-development/machine-learning-flujos-de-trabajo-y-herramientas-ii): Explore machine learning workflows, representation, and Python tools.
+- [Machine Learning Workflows](https://formalweb.cat/es/blog-desarrollo-web/machine-learning-flujos-de-trabajo-y-herramientas-ii): Explore Machine Learning workflows, tools, and feature representation.
+- [Responsive Tables with CSS](https://formalweb.cat/en/blog-web-development/tablas-responsive-con-css): Learn to create responsive tables easily with CSS.
+- [Machine Learning Workflows and Tools](https://formalweb.cat/ca/blog-desenvolupament-web/machine-learning-flujos-de-trabajo-y-herramientas-ii): Explore workflows and tools in Machine Learning applications.
+- [Responsive CSS Tables](https://formalweb.cat/ca/blog-desenvolupament-web/tablas-responsive-con-css): Learn to create responsive tables using CSS techniques.
+- [Machine Learning explicado](https://formalweb.cat/es/blog-desarrollo-web/que-es-machine-learning-aprendizaje-automatico): Explora conceptos y aplicaciones del Machine Learning fácilmente.
+- [Optimize Laravel Commands](https://formalweb.cat/ca/blog-desenvolupament-web/laravel-ejecutar-php-artisan-optimize-en-el-servidor): Guide to optimizing Laravel using PHP Artisan commands.
+- [Laravel Optimize Command](https://formalweb.cat/en/blog-web-development/laravel-ejecutar-php-artisan-optimize-en-el-servidor): Guide to using 'php artisan optimize' in Laravel 9.
+- [Machine Learning Overview](https://formalweb.cat/en/blog-web-development/que-es-machine-learning-aprendizaje-automatico): Explore machine learning concepts, applications, and key methods.
+- [Laravel Artisan Optimization](https://formalweb.cat/es/blog-desarrollo-web/laravel-ejecutar-php-artisan-optimize-en-el-servidor): Learn to optimize Laravel with artisan commands effectively.
+- [Responsive Tables with CSS](https://formalweb.cat/es/blog-desarrollo-web/tablas-responsive-con-css): Learn to create responsive tables using CSS techniques.
